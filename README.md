@@ -15,7 +15,7 @@ Utilizaremos o learner lab para ter acesso ao terminal da AWS, iniciaremos uma i
 
 ### PASSO 1
 
-Abra o *Learner Lab* da AWS e inicialize o LAB
+Abra o *Learner Lab* da AWS e inicialize o LAB.
 
 <img src="img/Screenshot_218.png">
 
