@@ -1,6 +1,6 @@
 # Objetivos
 
-Criar uma VM EC2 na AWS e acessar via SSH
+Criar uma VM EC2 na AWS e acessar via SSH.
 
 # Materiais
 
